@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "EvidencePojistenych/1.0.0": {
+        "runtime": {
+          "EvidencePojistenych.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EvidencePojistenych/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
